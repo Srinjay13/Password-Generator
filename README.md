@@ -1,4 +1,5 @@
 This project is a Java Console Application to generate Random passwords. <br />
+Introducing "SecurePass," the ultimate password generator designed to fortify your online security. With cyber threats on the rise, protecting your personal information has never been more critical, and "SecurePass" is here to empower you with robust and unbreakable passwords.<br />
 
 Functionalities:  <br />
 
